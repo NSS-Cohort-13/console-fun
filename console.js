@@ -1,0 +1,5 @@
+console.log('hello')
+console.error('omg')
+console.warn('zombies ahead!')
+console.info('pi is 3.14')
+console.debug('debugging is fun!')
